@@ -12,3 +12,6 @@ https://asciinema.org/a/6l3wqrz4tzlV8nsHQLmt86oBM
 
 Demo brain-progression:
 https://asciinema.org/a/vEGPtxBuOQ5GazOzwY4zYkZPB
+
+Demo brain-prime:
+https://asciinema.org/a/ERRQ2kGJGN76BKYpXQDXS8KRR
