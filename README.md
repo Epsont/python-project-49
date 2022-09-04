@@ -9,3 +9,6 @@ https://asciinema.org/a/EbafLeOKZnFs6zoErGFmFwaVA
 
 Demo brain-gcd:
 https://asciinema.org/a/6l3wqrz4tzlV8nsHQLmt86oBM
+
+Demo brain-progression:
+https://asciinema.org/a/vEGPtxBuOQ5GazOzwY4zYkZPB
