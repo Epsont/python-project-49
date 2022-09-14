@@ -18,7 +18,7 @@ def logic(game):
             print(f"'{answer}' is wrong answer ;(. Correct answer was '{correct_answer}'.")
             print(f"Let's try again, {name}!")
             return
-    print(f'Congratilation, {name}!')
+    print(f'Congratulation, {name}!')
 
 def main():
     logic()
