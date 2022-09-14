@@ -10,7 +10,7 @@ def brain_gcd():
     correct_answer = str(math.gcd(num1, num2))
     return question1, question2, correct_answer
 
-def main()
+def main():
     brain_gcd()
 
 if __name__ == '__main__'
