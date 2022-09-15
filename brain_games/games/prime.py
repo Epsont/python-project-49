@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 from random import randint
 
+
 def brain_prime():
     num = randint(1, 100)
     if num == 1:
@@ -11,12 +12,14 @@ def brain_prime():
         correct_answer = 'yes'
     else:
         correct_answer = 'no'
-    question1 = (f'Answer "yes" if given number is prime. Otherwise answer "no".')
+    question1 = ('Answer "yes" if given number is prime. Otherwise answer "no".')
     question2 = (f'Question: {num}')
     return question1, question2, correct_answer
 
+
 def main():
     brain_prime()
+
 
 if __name__ == '__main__':
     main()

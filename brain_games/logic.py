@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 import prompt
 
+
 def logic(game):
     print("Welcome to the Brain Games!")
     name = prompt.string('May I have your name? ')
@@ -20,11 +21,10 @@ def logic(game):
             return
     print(f'Congratulations, {name}!')
 
+
 def main():
     logic()
 
+
 if __name__ == '__main__':
     main()
-
-
-        
