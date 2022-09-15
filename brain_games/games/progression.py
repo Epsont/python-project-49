@@ -17,7 +17,7 @@ def brain_progression():
     list_progression[random_index] = '..'
     question1 = (f'What number is missing in the progression?')
     #question2 = (f'Question: {list_progression}')
-    question2 = 'Question: '
+    question2 = 'Question:'
     i = 0
     while i < max_num_progression:
         question2 = question2 + ' ' + str(list_progression[i])
