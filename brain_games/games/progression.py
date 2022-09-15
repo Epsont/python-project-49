@@ -11,7 +11,7 @@ def brain_progression():
     random_index = randint(0, max_num_progression - 1)
     i = 1
     while i < max_num_progression:
-        list_progression.append(list_progression[i-1] + num_step)
+        list_progression.append(list_progression[i - 1] + num_step)
         # list_progression[i] = list_progression[i-1] + num_step
         i += 1
     correct_answer = str(list_progression[random_index])

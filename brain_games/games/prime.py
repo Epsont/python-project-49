@@ -12,7 +12,8 @@ def brain_prime():
         correct_answer = 'yes'
     else:
         correct_answer = 'no'
-    question1 = ('Answer "yes" if given number is prime. Otherwise answer "no".')
+    question1 = ('Answer "yes" if given number is prime. '
+                 'Otherwise answer "no".')
     question2 = (f'Question: {num}')
     return question1, question2, correct_answer
 
